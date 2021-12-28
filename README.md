@@ -22,7 +22,7 @@ This function looks like a bell shaped curve centred at the origin. In other wor
 
 Laying off rigor (we haven't discussed about the boundary conditions here, but a gaussian converges rather rapidly as the magnitude of x increases, so essentially we can assume that the function tends to zero at its boundaries), the solution can be written in the following manner:
 
-![Soln](https://latex.codecogs.com/png.image?\dpi{110}&space;u(x,t)=&space;A\sqrt{\frac{\pi}{1&plus;t}}&space;e^{\frac{-x^2}{1&plus;t}}
+![Soln](https://latex.codecogs.com/png.image?\dpi{110}&space;u(x,t)=&space;A\sqrt{\frac{\pi}{1&plus;t}}&space;e^{\frac{-x^2}{1&plus;t}})
 
 The denominator in the exponential part, actually tells us how much spread out the bell shape is, the higher it's value, more spread out it will be. 
 The factor multiplied in the beginning is a normalizing factor, which makes sure that the energy remains constant at all times.
