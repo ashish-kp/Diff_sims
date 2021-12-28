@@ -20,14 +20,16 @@ Visualizations of some specific solutions of different differential equations.
 
 This function looks like a bell shaped curve centred at the origin. In other words, it tells us that at the very centre of the rod, the temperature is the highest, and as we move along in either direction it decreases very fast, and some distance from the centre, the temperature is almost zero. This ditribustion might be due to a source which is in contact with the conductor initially, exactly at the centre. 
 
-Laying off rigor (we haven't discussed about the boundary conditions here, but a gaussian converges rather rapidly as the magnitude of x increases, so essentially we can assume that the function tends to zero at its boundaries), the solution can be written in the following manner:
+Laying off rigor (we haven't discussed about the boundary conditions here, but a gaussian converges rather rapidly as the magnitude of x increases, so essentially we can assume that the function tends to zero at its boundaries), the solution can be written in the following manner (setting certain constats to 1):
 
-![Soln](https://latex.codecogs.com/png.image?\dpi{110}&space;u(x,t)=&space;A\sqrt{\frac{\pi}{1&plus;t}}&space;e^{\frac{-x^2}{1&plus;t}})
+![Soln](https://latex.codecogs.com/png.image?\dpi{110}&space;u(x,t)=&space;A\sqrt{\frac{1}{1&plus;t}}&space;e^{\frac{-x^2}{1&plus;t}})
 
 The denominator in the exponential part, actually tells us how much spread out the bell shape is, the higher it's value, more spread out it will be. 
 The factor multiplied in the beginning is a normalizing factor, which makes sure that the energy remains constant at all times.
 
 Hence, intuitively, we can see that as time increases, the temperature function smooths out.
 
+- The above solution is by no means accurate but it helps us understand the behavior.
+- 
 - One more thing to be noted, is that as the heat starts spreading, it takes more and more time for it to move farther. This is because temperature is an axponentially decaying function of time.
 Link to simulation [here](https://trinket.io/library/trinkets/a4e39f2b10) 
