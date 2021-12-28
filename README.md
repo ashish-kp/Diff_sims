@@ -3,7 +3,7 @@ Visualizations of some specific solutions of different differential equations.
 
 ## Heat Equation in 1 Dimension
 
-- The heat diffusion equation gives us the temperature at every part, given we specify the initial condition, and the boundary conditions.
+- The heat diffusion equation gives us the temperature at every part of a conducting 1 dimensional material (specific to the current discussion), given we specify the initial condition, and the boundary conditions.
 - The thing to be noted here is that the differential equation has a doble derivative with respect to position and a single derivative with respect to time.
 - Hence, one can say that the curvature of the position function and the slope of the time function (of course, assuming one is able to write the solution as independent functions of position and time, which we can) are the key playing factors which determine how the temperature gets diffused, so to speak.
 
