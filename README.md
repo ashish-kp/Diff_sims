@@ -30,3 +30,4 @@ The factor multiplied in the beginning is a normalizing factor, which makes sure
 Hence, intuitively, we can see that as time increases, the temperature function smooths out.
 
 - One more thing to be noted, is that as the heat starts spreading, it takes more and more time for it to move farther. This is because temperature is an axponentially decaying function of time.
+Link to simulation [here](https://trinket.io/library/trinkets/a4e39f2b10)
