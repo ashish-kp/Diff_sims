@@ -3,7 +3,7 @@ Visualizations of some specific solutions of different differential equations.
 
 ## Heat Equation in 1 Dimension
 
-(A very beautiful and elegant explanation for the heat equation and its solution is given ![here](https://youtu.be/ToIXSwZ1pJU)
+(A very beautiful and elegant explanation for the heat equation and its solution is given [here](https://youtu.be/ToIXSwZ1pJU)
 
 - The heat diffusion equation gives us the temperature at every part of a conducting 1 dimensional material (specific to the current discussion), given we specify the initial condition, and the boundary conditions.
 - The thing to be noted here is that the differential equation has a doble derivative with respect to position and a single derivative with respect to time.
