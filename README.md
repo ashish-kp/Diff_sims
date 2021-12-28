@@ -14,7 +14,7 @@ Visualizations of some specific solutions of different differential equations.
 
 ### The Gaussian
 
-- If the initial temperature distribution were to be in the form of a gaussian, that is of the form:
+- If the initial temperature distribution were to be in the form of a gaussian:
 
 ![gauss](https://latex.codecogs.com/png.image?\dpi{110}&space;u(x,0)=&space;e^{-x^2})
 
